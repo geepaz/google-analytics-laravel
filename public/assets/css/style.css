@@ -1,0 +1,63 @@
+.container.mt-20 {
+    padding-top: 20px;
+}
+
+.data_box {
+    border: 1px solid #e2e7ee;
+    padding: 15px;
+    margin-bottom: 15px;
+    display: block;
+    color: #25364a !important;
+    text-decoration: none;
+}
+.data_box:hover {
+	text-decoration: none !important;
+}
+.data_box p:last-child {
+    margin-bottom: 0px;
+}
+.cstm_box .col-lg-3 {
+    border-right: 0 !important;
+}
+.cstm_box a {
+    padding: 25px 15px;
+    margin-bottom: 15px;
+    display: block;
+    box-shadow: 1px 1px 3px #bbbbbb;
+    text-decoration: none !important;
+    text-align: center;
+}
+.cstm_box a:hover {
+    box-shadow: 2px 2px 5px #bbbbbb;
+    transition: 0.3s ease-in-out;
+    background-color: #f0f5f9;
+}
+.cstm_box a .mb-1, .cstm_box a .mb-1:hover {
+	text-decoration: none;
+	color: #6c757d;
+}
+
+.card-header .card-title {
+    display: inline-block;
+}
+
+.card-header a {
+    float: right;
+}
+h3.back-color {
+    background-color: #096964;
+    color: #ffffff;
+    padding: 12px;
+    font-size: 22px;
+}
+
+label {
+    font-weight: bold;
+}
+.has-error .control-label, .has-error .help-block {
+    color: red;
+}
+.graph {
+    height: 300px;
+}
+
